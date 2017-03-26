@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Crypto_Sys_browser.jnlp">
+  <information>
+    <title>Crypto_Sys</title>
+    <vendor>arjun</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Crypto_Sys.jar" size="45249" download="eager" />
+    <jar href="lib\AbsoluteLayout.jar" size="2847" download="eager" />
+    <jar href="lib\mysql-connector-java-5.1.40-bin.jar" size="990927" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="crypto_sys.Cryto_login"  name="Crypto_Sys" >
+  </applet-desc>
+  <update check="always"/>
+</jnlp>

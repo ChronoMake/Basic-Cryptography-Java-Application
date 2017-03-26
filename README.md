@@ -1,0 +1,2 @@
+# Basic-Cryptography-Java-Application
+Asymmetric encryption techniques are used on a platform that simulates a distributed user demographic sharing content from their individual work directories in an encrypted format. Dynamically generated keys have to be shared with a target user for him/her to be able to access the files. Currently images and text files are supported. The application is written in Java and also features a basic user authentication portal using a local server.  
